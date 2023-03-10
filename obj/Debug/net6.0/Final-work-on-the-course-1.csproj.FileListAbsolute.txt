@@ -1,0 +1,15 @@
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.csproj.AssemblyReference.cache
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.AssemblyInfoInputs.cache
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.AssemblyInfo.cs
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.csproj.CoreCompileInputs.cache
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\bin\Debug\net6.0\Final-work-on-the-course-1.exe
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\bin\Debug\net6.0\Final-work-on-the-course-1.deps.json
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\bin\Debug\net6.0\Final-work-on-the-course-1.runtimeconfig.json
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\bin\Debug\net6.0\Final-work-on-the-course-1.dll
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\bin\Debug\net6.0\Final-work-on-the-course-1.pdb
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.dll
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\refint\Final-work-on-the-course-1.dll
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.pdb
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\Final-work-on-the-course-1.genruntimeconfig.cache
+C:\Users\Astraliya\Desktop\Final work on the course No. 1\Final-work-on-the-course-1\obj\Debug\net6.0\ref\Final-work-on-the-course-1.dll
